@@ -1,0 +1,870 @@
+[
+  {
+    "id": 2,
+    "created_at": "2023-01-25 19:00:18.527674+00",
+    "name": "Launch Screen",
+    "category": "screen-pattern",
+    "parent_id": 1
+  },
+  {
+    "id": 1,
+    "created_at": "2023-01-25 15:27:23.044659+00",
+    "name": "Onboarding",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 3,
+    "created_at": "2023-01-25 19:00:51.134995+00",
+    "name": "Welcome & Get Started",
+    "category": "screen-pattern",
+    "parent_id": 1
+  },
+  {
+    "id": 4,
+    "created_at": "2023-01-25 19:01:04.709124+00",
+    "name": "Walkthrough",
+    "category": "screen-pattern",
+    "parent_id": 1
+  },
+  {
+    "id": 5,
+    "created_at": "2023-01-25 19:01:39.235404+00",
+    "name": "Signup",
+    "category": "screen-pattern",
+    "parent_id": 1
+  },
+  {
+    "id": 6,
+    "created_at": "2023-01-25 19:01:52.025114+00",
+    "name": "Login",
+    "category": "screen-pattern",
+    "parent_id": 1
+  },
+  {
+    "id": 7,
+    "created_at": "2023-01-25 19:02:25.618813+00",
+    "name": "Verification",
+    "category": "screen-pattern",
+    "parent_id": 1
+  },
+  {
+    "id": 8,
+    "created_at": "2023-01-25 19:02:41.975054+00",
+    "name": "Account Setup",
+    "category": "screen-pattern",
+    "parent_id": 1
+  },
+  {
+    "id": 9,
+    "created_at": "2023-01-25 19:03:15.386227+00",
+    "name": "Guided Tour & Tutorial",
+    "category": "screen-pattern",
+    "parent_id": 1
+  },
+  {
+    "id": 10,
+    "created_at": "2023-01-25 19:03:39.053937+00",
+    "name": "Communication",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 11,
+    "created_at": "2023-01-25 19:04:11.292065+00",
+    "name": "About",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 12,
+    "created_at": "2023-01-25 19:04:40.22718+00",
+    "name": "Action Option",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 13,
+    "created_at": "2023-01-25 19:04:59.758226+00",
+    "name": "Acknowledgement & Success",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 14,
+    "created_at": "2023-01-25 19:05:34.433667+00",
+    "name": "Error",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 15,
+    "created_at": "2023-01-25 19:05:58.100959+00",
+    "name": "Confirmation",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 16,
+    "created_at": "2023-01-25 19:06:17.81756+00",
+    "name": "Permission",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 17,
+    "created_at": "2023-01-25 19:06:39.723539+00",
+    "name": "Empty State",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 18,
+    "created_at": "2023-01-25 19:06:52.5562+00",
+    "name": "Loading",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 19,
+    "created_at": "2023-01-25 19:07:15.709655+00",
+    "name": "Pull to Refresh",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 20,
+    "created_at": "2023-01-25 19:08:36.926895+00",
+    "name": "Coach Marks & Instruction",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 21,
+    "created_at": "2023-01-25 19:09:01.818881+00",
+    "name": "Feature Info",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 22,
+    "created_at": "2023-01-25 19:09:21.291626+00",
+    "name": "Settings & Preference",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 23,
+    "created_at": "2023-01-25 19:10:07.660295+00",
+    "name": "Help & Support",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 24,
+    "created_at": "2023-01-25 19:10:20.862985+00",
+    "name": "Feedback",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 25,
+    "created_at": "2023-01-25 19:10:31.269582+00",
+    "name": "Privacy Policy",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 26,
+    "created_at": "2023-01-25 19:10:47.119095+00",
+    "name": "Terms & Conditions",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 27,
+    "created_at": "2023-01-25 19:10:59.745708+00",
+    "name": "Suggestion & Similar Items",
+    "category": "screen-pattern",
+    "parent_id": 10
+  },
+  {
+    "id": 28,
+    "created_at": "2023-01-25 19:11:14.769357+00",
+    "name": "Commerce & Finance",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 29,
+    "created_at": "2023-01-25 19:11:32.833638+00",
+    "name": "Shop",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 30,
+    "created_at": "2023-01-25 19:11:49.107106+00",
+    "name": "Subscription & Premium",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 31,
+    "created_at": "2023-01-25 19:12:00.921999+00",
+    "name": "Carts & Bags",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 32,
+    "created_at": "2023-01-25 19:12:21.971275+00",
+    "name": "Checkout & Order Review",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 33,
+    "created_at": "2023-01-25 19:12:44.173797+00",
+    "name": "Payment Method",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 34,
+    "created_at": "2023-01-25 19:12:58.322949+00",
+    "name": "Order History",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 35,
+    "created_at": "2023-01-25 19:13:15.637613+00",
+    "name": "Pricing",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 36,
+    "created_at": "2023-01-25 19:13:33.003717+00",
+    "name": "Wallet & Balance",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 37,
+    "created_at": "2023-01-25 19:14:16.325931+00",
+    "name": "Promotions & Rewards",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 38,
+    "created_at": "2023-01-25 19:14:34.425284+00",
+    "name": "Ads",
+    "category": "screen-pattern",
+    "parent_id": 28
+  },
+  {
+    "id": 39,
+    "created_at": "2023-01-25 19:14:55.082379+00",
+    "name": "Social",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 40,
+    "created_at": "2023-01-25 19:15:14.205787+00",
+    "name": "Achievements & Awards",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 41,
+    "created_at": "2023-01-25 19:15:48.393202+00",
+    "name": "Activity & Notification",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 42,
+    "created_at": "2023-01-25 19:16:10.791921+00",
+    "name": "Add & Invite Friends",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 43,
+    "created_at": "2023-01-25 19:16:26.164477+00",
+    "name": "Comments",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 44,
+    "created_at": "2023-01-25 19:16:42.351625+00",
+    "name": "Social Feed",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 45,
+    "created_at": "2023-01-25 19:16:54.667899+00",
+    "name": "Followers & Following",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 46,
+    "created_at": "2023-01-25 19:17:09.158308+00",
+    "name": "Leaderboard",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 47,
+    "created_at": "2023-01-25 19:17:37+00",
+    "name": "Profile & Account",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 48,
+    "created_at": "2023-01-25 19:18:30.187036+00",
+    "name": "Reviews & Rating",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 49,
+    "created_at": "2023-01-25 19:18:48.390818+00",
+    "name": "Groups & Community",
+    "category": "screen-pattern",
+    "parent_id": 39
+  },
+  {
+    "id": 50,
+    "created_at": "2023-01-25 19:19:15.749141+00",
+    "name": "Content",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 51,
+    "created_at": "2023-01-25 19:19:35.379458+00",
+    "name": "Home",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 52,
+    "created_at": "2023-01-25 19:19:58.921049+00",
+    "name": "Discover & Explore",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 53,
+    "created_at": "2023-01-25 19:20:24.694568+00",
+    "name": "News Feed",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 54,
+    "created_at": "2023-01-25 19:20:39.721224+00",
+    "name": "Item List",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 55,
+    "created_at": "2023-01-25 19:20:54.449114+00",
+    "name": "Emails & Messages",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 56,
+    "created_at": "2023-01-25 19:21:16.648081+00",
+    "name": "Article",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 57,
+    "created_at": "2023-01-25 19:21:30.308576+00",
+    "name": "TV Show & Movie",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 58,
+    "created_at": "2023-01-25 19:21:49.50006+00",
+    "name": "Podcast & Song",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 59,
+    "created_at": "2023-01-25 19:22:04.266769+00",
+    "name": "Recipe & Menu",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 60,
+    "created_at": "2023-01-25 19:22:17.742232+00",
+    "name": "Note",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 61,
+    "created_at": "2023-01-25 19:22:29.56914+00",
+    "name": "Goal & Task",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 62,
+    "created_at": "2023-01-25 19:22:57.807269+00",
+    "name": "Post",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 63,
+    "created_at": "2023-01-25 19:23:12.213887+00",
+    "name": "Stories",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 64,
+    "created_at": "2023-01-25 19:23:34.166675+00",
+    "name": "Chat",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 65,
+    "created_at": "2023-01-25 19:23:49.045043+00",
+    "name": "Game",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 66,
+    "created_at": "2023-01-25 19:24:15.45475+00",
+    "name": "Class",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 67,
+    "created_at": "2023-01-25 19:24:29.082304+00",
+    "name": "Event",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 68,
+    "created_at": "2023-01-25 19:24:51.806799+00",
+    "name": "Quiz",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 69,
+    "created_at": "2023-01-25 19:25:00.199811+00",
+    "name": "Product",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 70,
+    "created_at": "2023-01-25 19:25:13.776378+00",
+    "name": "Augmented Reality",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 71,
+    "created_at": "2023-01-25 19:25:26.676674+00",
+    "name": "Other Content",
+    "category": "screen-pattern",
+    "parent_id": 50
+  },
+  {
+    "id": 72,
+    "created_at": "2023-01-25 19:25:35.712899+00",
+    "name": "Actions",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 73,
+    "created_at": "2023-01-25 19:26:18.011961+00",
+    "name": "Add & Create",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 74,
+    "created_at": "2023-01-25 19:26:54.776218+00",
+    "name": "Edit",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 75,
+    "created_at": "2023-01-25 19:27:13.651359+00",
+    "name": "Delete",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 76,
+    "created_at": "2023-01-25 19:27:24.820199+00",
+    "name": "Upload & Download",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 77,
+    "created_at": "2023-01-25 19:27:33.328311+00",
+    "name": "Select",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 78,
+    "created_at": "2023-01-25 19:27:40.941686+00",
+    "name": "Move",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 79,
+    "created_at": "2023-01-25 19:28:03.216636+00",
+    "name": "Reorder",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 80,
+    "created_at": "2023-01-25 19:28:24.258639+00",
+    "name": "Draw & Annotate",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 81,
+    "created_at": "2023-01-25 19:28:34.271005+00",
+    "name": "Save",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 82,
+    "created_at": "2023-01-25 19:28:42.951643+00",
+    "name": "Cancel",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 83,
+    "created_at": "2023-01-25 19:28:59.73594+00",
+    "name": "Set",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 84,
+    "created_at": "2023-01-25 19:29:13.83355+00",
+    "name": "Schedule",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 85,
+    "created_at": "2023-01-25 19:29:29.761382+00",
+    "name": "Like & Upvote",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 86,
+    "created_at": "2023-01-25 19:29:47.517758+00",
+    "name": "Follow & Subscribe",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 87,
+    "created_at": "2023-01-25 19:30:12.336689+00",
+    "name": "Share",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 88,
+    "created_at": "2023-01-25 19:30:23.253717+00",
+    "name": "Flag & Report",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 89,
+    "created_at": "2023-01-25 19:30:30.798706+00",
+    "name": "Ban & Block",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 90,
+    "created_at": "2023-01-25 19:30:41.234507+00",
+    "name": "Filter & Sort",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 91,
+    "created_at": "2023-01-25 19:30:54.6186+00",
+    "name": "Search",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 92,
+    "created_at": "2023-01-25 19:31:15.210738+00",
+    "name": "Transfer & Send Money",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 93,
+    "created_at": "2023-01-25 19:31:30.141647+00",
+    "name": "Other Action",
+    "category": "screen-pattern",
+    "parent_id": 72
+  },
+  {
+    "id": 94,
+    "created_at": "2023-01-25 19:31:37.838558+00",
+    "name": "Data",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 95,
+    "created_at": "2023-01-25 19:31:54.458174+00",
+    "name": "Charts",
+    "category": "screen-pattern",
+    "parent_id": 94
+  },
+  {
+    "id": 96,
+    "created_at": "2023-01-25 19:32:11.684+00",
+    "name": "Progress",
+    "category": "screen-pattern",
+    "parent_id": 94
+  },
+  {
+    "id": 97,
+    "created_at": "2023-01-25 19:32:29.776723+00",
+    "name": "Dashboard & Stats",
+    "category": "screen-pattern",
+    "parent_id": 94
+  },
+  {
+    "id": 98,
+    "created_at": "2023-01-25 19:32:41.426504+00",
+    "name": "Size Guide",
+    "category": "screen-pattern",
+    "parent_id": 94
+  },
+  {
+    "id": 99,
+    "created_at": "2023-01-25 19:33:07+00",
+    "name": "User Collections",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 100,
+    "created_at": "2023-01-25 19:33:42.242604+00",
+    "name": "Bookmarks & Collections",
+    "category": "screen-pattern",
+    "parent_id": 99
+  },
+  {
+    "id": 101,
+    "created_at": "2023-01-25 19:33:54.487954+00",
+    "name": "Downloads & Available Offline",
+    "category": "screen-pattern",
+    "parent_id": 99
+  },
+  {
+    "id": 102,
+    "created_at": "2023-01-25 19:34:13.950306+00",
+    "name": "Playlists",
+    "category": "screen-pattern",
+    "parent_id": 99
+  },
+  {
+    "id": 103,
+    "created_at": "2023-01-25 19:34:34.218955+00",
+    "name": "Trash",
+    "category": "screen-pattern",
+    "parent_id": 99
+  },
+  {
+    "id": 104,
+    "created_at": "2023-01-25 19:35:17.3894+00",
+    "name": "Utility",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 105,
+    "created_at": "2023-01-25 19:35:30.672784+00",
+    "name": "Timeline & History",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 106,
+    "created_at": "2023-01-25 19:35:46.741313+00",
+    "name": "Calendar",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 107,
+    "created_at": "2023-01-25 19:35:56.159529+00",
+    "name": "Date & Time",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 108,
+    "created_at": "2023-01-25 19:36:09.145648+00",
+    "name": "Timer & Clock",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 109,
+    "created_at": "2023-01-25 19:36:15.002618+00",
+    "name": "Reminder",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 110,
+    "created_at": "2023-01-25 19:36:24.216221+00",
+    "name": "Location & Address",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 111,
+    "created_at": "2023-01-25 19:36:30.948649+00",
+    "name": "Map",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 112,
+    "created_at": "2023-01-25 19:36:40.466092+00",
+    "name": "Browser",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 113,
+    "created_at": "2023-01-25 19:36:47.296281+00",
+    "name": "Chat Bots",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 114,
+    "created_at": "2023-01-25 19:36:56.531584+00",
+    "name": "Audio Player",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 115,
+    "created_at": "2023-01-25 19:37:05.953469+00",
+    "name": "Video Player",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 116,
+    "created_at": "2023-01-25 19:37:16.582899+00",
+    "name": "Audio & Video Recorder",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 117,
+    "created_at": "2023-01-25 19:37:27.726342+00",
+    "name": "Media Editor",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 118,
+    "created_at": "2023-01-25 19:37:37.352918+00",
+    "name": "Camera & Scanner",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 119,
+    "created_at": "2023-01-25 19:37:48.366173+00",
+    "name": "Filters & Stickers",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 120,
+    "created_at": "2023-01-25 19:37:54.795314+00",
+    "name": "Call",
+    "category": "screen-pattern",
+    "parent_id": 104
+  },
+  {
+    "id": 121,
+    "created_at": "2023-01-25 19:38:25.782904+00",
+    "name": "Misc",
+    "category": "screen-pattern",
+    "parent_id": ""
+  },
+  {
+    "id": 122,
+    "created_at": "2023-01-25 19:38:40.327128+00",
+    "name": "Confetti",
+    "category": "screen-pattern",
+    "parent_id": 121
+  },
+  {
+    "id": 123,
+    "created_at": "2023-01-25 19:38:52.252956+00",
+    "name": "Dark Mode",
+    "category": "screen-pattern",
+    "parent_id": 121
+  },
+  {
+    "id": 124,
+    "created_at": "2023-01-25 19:39:06.480043+00",
+    "name": "Misc",
+    "category": "screen-pattern",
+    "parent_id": 121
+  }
+]
